@@ -16,8 +16,8 @@ git submodule update --init --recursive
 
 This repository contains the following submodules:
 
-- [backend](backend/): The backend component of My Application.
-- [frontend](frontend/): The frontend component of My Application.
+- [backend](https://github.com/Pehuen87/lanacion-node): The backend component of My Application.
+- [frontend](https://github.com/Pehuen87/lanacion-next): The frontend component of My Application.
 
 Each submodule has its own repository and can be developed, tested, and updated independently. To contribute to a submodule, navigate to its respective directory and make the changes there.
 
