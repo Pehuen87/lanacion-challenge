@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Pehuen87/lanacion-node.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Pehuen87/lanacion-next.git
